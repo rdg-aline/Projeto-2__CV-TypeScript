@@ -49,7 +49,7 @@ function App() {
         periodo: 'Jan/21 - Mar/21',
         instituicao: 'Campinas Tech Talents 2020',
         local:'SP',
-        conteudo: 'Fazia Construir  e testar aplicações em React'
+        conteudo: 'Construir  e testar aplicações em React'
       },
       {
         id: 2,
